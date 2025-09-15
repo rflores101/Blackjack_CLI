@@ -1,4 +1,4 @@
-# Blackjack CLI — A Python OOP Game
+# Blackjack CLI — Python OOP Game
 
 **Blackjack CLI** is a fully-interactive, terminal-based Blackjack game built in Python, featuring object-oriented architecture, real-time gameplay logic, and a clean command-line interface.
 
