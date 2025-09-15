@@ -296,10 +296,3 @@ def main():
 
     
 main()
-
-"""
-POTENTIAL ADD-ON FEATURES:
-- show hand totals next to cards for assistance (ask if user will need this assistance)
-- add card counter cheat (add a secret input for the cheat to activate)
-
-"""
